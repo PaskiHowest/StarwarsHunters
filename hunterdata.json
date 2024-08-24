@@ -1,0 +1,45 @@
+[
+    {
+        "Name": "Grozz",
+        "Description": "Wookiee Juggernaut",
+        "Image": "grozz-logo.png",
+        "Skills": [
+            "boulder bash",
+            "stampede",
+            "war cry",
+	    "upheaval"
+        ]
+    },
+    {
+        "Name": "Aran Tal",
+        "Description": "Mandalorian Vanguard",
+        "Image": "arantal-logo.png",
+        "Skills": [
+            "fury of clan Tal",
+            "blastback",
+            "Tal's breath",
+	    "air assault"
+        ]
+    },
+   {
+        "Name": "Sentinel",
+        "Description": "Imperial Heavy Gunner",
+        "Image": "sentinel-logo.png",
+        "Skills": [
+	    "imperial's finest",
+            "combat shield",
+            "suppressing shot",
+	    "barrel slam"
+        ]
+    },
+   {
+        "Name": "J3di",
+        "Description": "Jedi Droid",
+        "Image": "j3di-logo.png",
+        "Skills": [
+	    "whirlwind",
+	    "faux pull",
+	    "deflecting stance"
+        ]
+    },
+]
